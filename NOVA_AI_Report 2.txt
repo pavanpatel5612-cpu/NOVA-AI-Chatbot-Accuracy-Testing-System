@@ -1,0 +1,33 @@
+
+NOVA AI - ACCURACY ANALYSIS REPORT
+===================================
+
+Date: 07-11-2026 12:12:20
+
+EXPECTED ANSWER:
+the earth revolves around the sun.
+
+AI GENERATED ANSWER:
+the earth is flat.
+
+ANALYSIS METRICS:
+-----------------
+Text Similarity (F1): 40.00%
+Precision: 50.00%
+Recall: 33.33%
+F1 Score: 40.00%
+
+MATCHED WORD COUNT: 2
+
+MISSING WORDS:
+the, revolves, around, sun
+
+EXTRA WORDS:
+is, flat
+
+VERDICT: LOW TEXT SIMILARITY
+
+IMPORTANT:
+This is a token-level text similarity measurement.
+It does not establish factual correctness, meaning,
+or semantic equivalence.

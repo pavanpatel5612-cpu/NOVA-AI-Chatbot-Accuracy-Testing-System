@@ -1,0 +1,33 @@
+
+NOVA AI - ACCURACY ANALYSIS REPORT
+===================================
+
+Date: 07-11-2026 12:09:00
+
+EXPECTED ANSWER:
+artificial intelligence is the simulation of human intelligence by machine. it enable computer to learn , reason , solve , problem and make a disicion
+
+AI GENERATED ANSWER:
+artificial intelligence is the simulation of human intelligence by machine. it enable computer to learn , reason , solve , problem and make a disicion
+
+ANALYSIS METRICS:
+-----------------
+Text Similarity (F1): 100.00%
+Precision: 100.00%
+Recall: 100.00%
+F1 Score: 100.00%
+
+MATCHED WORD COUNT: 22
+
+MISSING WORDS:
+None
+
+EXTRA WORDS:
+None
+
+VERDICT: STRONG TEXT SIMILARITY
+
+IMPORTANT:
+This is a token-level text similarity measurement.
+It does not establish factual correctness, meaning,
+or semantic equivalence.

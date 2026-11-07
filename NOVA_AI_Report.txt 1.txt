@@ -1,0 +1,33 @@
+
+NOVA AI - ACCURACY ANALYSIS REPORT
+===================================
+
+Date: 07-11-2026 12:11:04
+
+EXPECTED ANSWER:
+python is a programming language.
+
+AI GENERATED ANSWER:
+python is a type of animal.
+
+ANALYSIS METRICS:
+-----------------
+Text Similarity (F1): 54.55%
+Precision: 50.00%
+Recall: 60.00%
+F1 Score: 54.55%
+
+MATCHED WORD COUNT: 3
+
+MISSING WORDS:
+programming, language
+
+EXTRA WORDS:
+type, of, animal
+
+VERDICT: MODERATE TEXT SIMILARITY
+
+IMPORTANT:
+This is a token-level text similarity measurement.
+It does not establish factual correctness, meaning,
+or semantic equivalence.
